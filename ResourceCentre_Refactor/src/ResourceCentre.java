@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class ResourceCentre {
-
+//qn8
 
 	public static void main(String[] args) {
 
