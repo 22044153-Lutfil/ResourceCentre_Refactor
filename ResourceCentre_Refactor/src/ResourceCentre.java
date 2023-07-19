@@ -11,10 +11,6 @@ public class ResourceCentre {
 	private static final int OPTION_VIEW = 1;
 	private static final int OPTION_QUIT = 5;
 
-	/**
-	 * 
-	 */
-	private static final int OPTION_QUIT = 5;
 
 	public static void main(String[] args) {
 
